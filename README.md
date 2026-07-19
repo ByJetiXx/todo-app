@@ -1,5 +1,5 @@
 # Web Geliştirme JS Örneği
-
+ 
 Bu proje, ReactJS ve Vite kullanarak geliştirilmiş bir Todo List uygulamasıdır. Ayrıca, basit bir Node.js sunucusu ile backend desteği sağlar.
 
 ## Kurulum ve Çalıştırma
